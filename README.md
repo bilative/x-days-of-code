@@ -35,7 +35,7 @@ I started to handle with the data I collected yesterday. None values and the dat
   - cm, mm, or meters,
   - screen resolutions 27'', 27' , 27 inch or 27INCH,
   - freedos, dos or FreeDOS
-[sample code](https://github.com/bilative/x-days-of-code/blob/master/code_pieces/day01_datamanipulation.py)  here.
+- [sample code](https://github.com/bilative/x-days-of-code/blob/master/code_pieces/day01_datamanipulation.py)  here.
 
 ![fiats](https://user-images.githubusercontent.com/70684994/127753022-ccbcac36-88b4-4720-aa0e-3e317d186c22.png)
 
