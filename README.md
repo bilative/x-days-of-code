@@ -71,3 +71,21 @@ After working day, I didn't do something important today.
 If I wanna have data engineering skills, I think I should improve my level of knowledge in REST API. And actually I'm having fun while handling with html procedures.
 - I took some steps about how can I create a token in my APIs, and How can I verified users.
 - I used Flask for APIs, and JWT.
+
+## **Day 6 (05.08.2021)**
+Today I started to analyze the data I scraped online store. But after start to know data and analyze I realize that variation on independent variables are not enough. I was aim to predict Prices' of the products but prices are seem not continious variable to use regression. Im talking like this bc prizes are like 6499, 6999, 7499...
+* There are about 3600 product but there is 18 different price labels.
+* So this is smth like classification problem, and I dont find smth true to use regression or classification in this situation.
+
+I'll try smth different later.
+## **Day 7 (06.08.2021)**
+Today me and one of my friend checked my projects (smth like code review). And we decide that I can make my codes more efective.
+* I redesigned some of my projects design to fit "Model Viev Controler".
+* I eliminated repeated functions or lines. (for [example](https://github.com/bilative/bookstore-db-hw/blob/master/libs/inserts.py))
+
+We decided to do code reviews more. In this way I'll improve my skills by perspective of other experts, and avoid from mistakes.
+## **Day 8 (07.08.2021)**
+I study about REST Api more today.
+* [This one](https://github.com/bilative/resty/tree/master/jsonPOST_functOutput) was one of my steps.
+## **Day 9 (08.08.2021)**
+Today I took a google cloud certification course.
