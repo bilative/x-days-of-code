@@ -89,3 +89,5 @@ I study about REST Api more today.
 * [This one](https://github.com/bilative/resty/tree/master/jsonPOST_functOutput) was one of my steps.
 ## **Day 9 (08.08.2021)**
 Today I took a google cloud certification course.
+
+## **Day off (09.08.2021)**
