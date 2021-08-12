@@ -92,12 +92,12 @@ Today I took a google cloud certification course.
 
 ## **Day off (09.08.2021)**
 
-## **Day 10 (09.08.2021)**
+## **Day 10 (10.08.2021)**
 Today I searched some Java apps. And I solved some entry level Java problems on Hackerrank.
 I'm at the begining of the Java. But I'm taking small steps.
 In short term maybe I wont be good at it but, in long term (maybe in 2 year) I know that I'll use it fluently. 
 
-## **Day 11 (09.08.2021)**
+## **Day 11 (11.08.2021)**
 Today I rent a cloud machine (linux) for 12 months. I had no so much experience with linux, I know some basics but I wanna do more. Today:
 - I raised my machine,
 - Created new user except root,
