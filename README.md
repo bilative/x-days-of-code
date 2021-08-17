@@ -19,13 +19,14 @@ for day in range(x):
 ---
 ---
 
-## **Day 16 (12.08.2021)**
+## **Day 15 (12.08.2021)**
 Actually today I did almost nothing. But I built my portfolio github-page. For now there is only main page but Im planing to carry this repo to here (https://bilative.github.io/xdaysofcode) in couple days. And I'll collect all my blog post here also. You can check it [here](https://bilative.github.io/).
 
-## **Day 14-15 (14-15.08.2021)**
+## **Day 13-14 (14-15.08.2021)**
 During these 2 days I made a end-to-end project.
 Project and all the details are [here](https://github.com/bilative/weekend-end-to-end-ds-project)
 
+## **Day off (12.08.2021)**
 
 ## **Day 12 (12.08.2021)**
 Today I deployed my [twitter-eartquake-bot](https://github.com/bilative/twitter-earthquake-bot) application on cloud linux machine. Normally I'm using linux with interface but on cloud machine there is no interface, so deploying steps required some new codes to write for me.
